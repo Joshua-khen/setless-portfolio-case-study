@@ -1,18 +1,18 @@
 # Setless — Song Library & Setlist Management App
 
-Setless is a music workflow app designed to help musicians organize private song libraries, build setlists, and prepare for live performances more efficiently.
+Setless helps musicians “set less” by organizing songs at the point of entry, not when a setlist is needed. It is a music workflow app designed to help musicians structure private song libraries, build setlists, and provide fast digital tools that support improvised changes during live performances.
 
 ## Project Overview
 
-The app organizes imported song libraries with structured music theory metadata and helps users build setlists based on audience, show theme, and song attributes. It also supports live performance needs through auto-scroll and setlist export functionality.
+The Setless app organizes imported song libraries with structured music theory metadata and helps users build setlists based on audience, show theme, and song attributes.
 
 ## Problem
 
-Musicians often manage songs, lyrics, chords, keys, and performance notes across scattered documents, screenshots, notes apps, and memory. This makes it harder to prepare consistent setlists for different audiences or events.
+Musicians often manage songs, lyrics, chords, keys, and performance notes across scattered documents, screenshots, notes apps, and memory. This unstructured data preparation makes for a less impactful setlist for both the creative musician and the audience, and impedes the use of digital tool support in the artist's performance-crafting workflow.
 
 ## Solution
 
-Setless creates a more organized workflow by turning a private song library into structured, searchable, performance-ready information.
+Setless creates a more organized workflow by turning the musician's private song library into structured, searchable, performance-ready information. This allows the artist to harness digital features like song recommendations for their setlist based on themes and target audiences with songs the artist already knows.
 
 ## Key Features
 
@@ -20,6 +20,8 @@ Setless creates a more organized workflow by turning a private song library into
 - Music theory metadata
 - Setlist creation based on audience or show theme
 - Lyrics/chords viewing
+- Semitone-based chord transposition to support quick key changes
+- Nashville Number System toggle for flexible chord chart viewing
 - Auto-scroll for live performance
 - Setlist export functionality
 - Editable setlist workflow
