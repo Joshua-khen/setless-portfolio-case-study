@@ -4,7 +4,7 @@ Setless helps musicians “set less” by organizing songs at the point of entry
 
 ## App Preview
 
-<img src="images/Setless-Home-Screen.png" alt="Setless Home Screen" width="800">
+<img src="images/Setless-Home-Screen.png" alt="Setless Home Screen" width="600">
 
 ## Project Overview
 
