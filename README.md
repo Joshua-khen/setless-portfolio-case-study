@@ -1,4 +1,4 @@
-# Setless — Song Library & Setlist Management App
+# Setless — Song Library & Setlist Design/Performance App
 
 Setless helps musicians “set less” by organizing songs at the point of entry, not when a setlist is needed. It is a music workflow app designed to help musicians structure private song libraries, build setlists, and provide fast digital tools that support improvised changes during live performances.
 
